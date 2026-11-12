@@ -161,6 +161,14 @@ body {
   object-fit: cover;
 }
 
+.cfu-image {
+  display: block;
+  width: 220px;
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
 /* =========================
    FOOTER
 ========================= */
