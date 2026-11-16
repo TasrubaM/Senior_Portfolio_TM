@@ -217,6 +217,29 @@ body {
   border-radius: 8px;
 }
 
+.resume-preview {
+  display: block;
+  width: min(100%, 560px);
+  height: auto;
+  margin: 1.5em auto;
+  border-radius: 12px;
+  background-color: white;
+}
+
+.resume-link {
+  display: inline-block;
+  padding: 0.8em 1.2em;
+  border-radius: 8px;
+  background-color: #b883c0;
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.resume-link:hover {
+  color: #d7c2f6;
+}
+
 /* =========================
    FOOTER
 ========================= */
