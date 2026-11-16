@@ -219,7 +219,7 @@ body {
 
 .resume-preview {
   display: block;
-  width: min(100%, 560px);
+  width: min(100%, 280px);
   height: auto;
   margin: 1.5em auto;
   border-radius: 12px;
