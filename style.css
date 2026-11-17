@@ -118,28 +118,6 @@ body {
   border-radius: 8px;
 }
 
-.project-heading {
-  margin: 0 0 1em;
-  color: #aaaaff;
-}
-
-.project-embed {
-  display: block;
-  width: 100%;
-  height: 600px;
-  border: none;
-  background-color: white;
-  border-radius: 8px;
-}
-
-.project-fallback {
-  margin-bottom: 0;
-}
-
-.project-fallback a {
-  color: #e6d9f4;
-}
-
 .reflection {
   flex: 1;
   background-color: rgba(255, 255, 255, 0.04);
@@ -285,9 +263,6 @@ footer {
     height: 350px;
   }
 
-  .project-embed {
-    height: 450px;
-  }
 }
 
 @media (max-width: 600px) {
